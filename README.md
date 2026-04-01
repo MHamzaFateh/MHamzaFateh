@@ -17,10 +17,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Multi--Agent%20AI-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/GenAI-LLM%20Apps%20%26%20RAG-9C27B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic-Autonomous%20Workflows-7B1FA2?style=flat-square" />
   <img src="https://img.shields.io/badge/Realtime-Computer%20Vision-00C853?style=flat-square" />
   <img src="https://img.shields.io/badge/Domain-Time%20Series%20Forecasting-1E88E5?style=flat-square" />
   <img src="https://img.shields.io/badge/Shipping-Production%20Pipelines-FF6D00?style=flat-square" />
 </p>
+
+<div align="center">
+  <img src="https://gh-motion-card.vercel.app/api/github-motion?username=MHamzaFateh&animation=matrix&theme=nightowl" width="100%" />
+</div>
 
 ---
 
@@ -55,10 +61,26 @@ Drone imagery + segmentation + GIS workflows for planning and decision support a
 
 ---
 
+## Generative AI, LLM, and Agentic AI
+
+### Generative AI
+- Build task-specific GenAI applications for business workflows and data-heavy use cases.
+- Integrate retrieval, prompt engineering, and evaluation loops to improve factual quality.
+
+### LLM Engineering
+- Design production-ready RAG pipelines with chunking, embeddings, re-ranking, and guardrails.
+- Optimize inference and orchestration for lower latency and higher response reliability.
+
+### Agentic AI Systems
+- Build multi-agent systems with role-based planners, executors, reviewers, and memory.
+- Orchestrate tools/APIs for autonomous workflows that can reason, act, and self-correct.
+
+---
+
 ## Tech I Like Shipping With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,postgres,redis,azure,gcp,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,postgres,redis,azure,gcp,git,js&perline=12" />
 </p>
 
 ---
