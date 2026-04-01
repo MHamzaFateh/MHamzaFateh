@@ -28,6 +28,10 @@
   <img src="https://gh-motion-card.vercel.app/api/github-motion?username=MHamzaFateh&animation=matrix&theme=nightowl" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:022b1d&height=70&section=header&text=01001101%2001000001%2001010100%2001010010%2001001001%2001011000&fontSize=20&fontColor=39d353&animation=fadeIn" width="100%" />
+</div>
+
 ---
 
 ## `whoami`
@@ -63,17 +67,57 @@ Drone imagery + segmentation + GIS workflows for planning and decision support a
 
 ## Generative AI, LLM, and Agentic AI
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Generative%20AI%20Engineer-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-LLM%20Engineer-7B1FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Agentic%20AI%20Builder-5E35B1?style=for-the-badge" />
+</p>
+
+I also specialize in building **Generative AI**, **LLM systems**, and **Agentic AI products** for real business workflows.
+
 ### Generative AI
 - Build task-specific GenAI applications for business workflows and data-heavy use cases.
 - Integrate retrieval, prompt engineering, and evaluation loops to improve factual quality.
+- Design copilots, internal assistants, and domain-specific AI experiences from prototype to production.
 
 ### LLM Engineering
 - Design production-ready RAG pipelines with chunking, embeddings, re-ranking, and guardrails.
 - Optimize inference and orchestration for lower latency and higher response reliability.
+- Work across open and hosted models, with structured outputs, tool use, and robust failure handling.
 
 ### Agentic AI Systems
 - Build multi-agent systems with role-based planners, executors, reviewers, and memory.
 - Orchestrate tools/APIs for autonomous workflows that can reason, act, and self-correct.
+- Build end-to-end automation loops: planning, execution, verification, and iterative refinement.
+
+### Typical Delivery Stack
+- `Python` `FastAPI` `LangChain/LangGraph` `Vector DBs` `Redis` `Docker` `Azure/GCP`
+- RAG pipelines, tool-calling agents, eval pipelines, observability, and production deployment.
+
+---
+
+## Neural Orbit (GitHub-Safe Visual)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:1f6feb&height=120&section=header&text=Neural%20Core%20Orbit&fontSize=28&fontColor=c9d1d9&animation=fadeIn" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Orbit%201-LSTM%20%7C%20Transformers-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Orbit%202-Agentic%20Workflows-8957e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Orbit%203-Computer%20Vision-2ea043?style=for-the-badge" />
+</p>
+
+---
+
+## Skill Bars (Rendered)
+
+- Python / ML `█████████░ 95%`
+- LLM + RAG `████████░░ 90%`
+- Agentic AI `████████░░ 88%`
+- Computer Vision `███████░░░ 82%`
+- Cloud + MLOps `███████░░░ 80%`
+- Data Engineering `██████░░░░ 74%`
 
 ---
 
@@ -98,6 +142,10 @@ Drone imagery + segmentation + GIS workflows for planning and decision support a
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHamzaFateh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHamzaFateh&theme=tokyonight" width="100%" />
 </div>
 
 ---
